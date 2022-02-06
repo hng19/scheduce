@@ -23,6 +23,7 @@ img{
 
 .coin>p{
     position: fixed;
+    top: -10px;
     animation-name: coin-fall, coin-shake;
     animation-duration: 15s, 5s;
     animation-timing-function: linear, ease-in-out;
